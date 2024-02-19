@@ -21,7 +21,7 @@
   <img align="center" height="200em" src="https://github-readme-stats-mu-three-31.vercel.app/api/top-langs/?username=erickzz&border_radius=false&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true&hide=contribs"/>
 </div>
 
-<h2> Skills </h2>
+ <h2> 🚀 Skills </h2>
 
 <div align="center">
   React | Javascript |  Typescript | Html | CSS
@@ -38,9 +38,13 @@
   </div><br>
 
 <div align="center">
-<!--  <a href="https://www.instagram.com/crystyanno/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
-<!--   <a href="https://www.linkedin.com/in/crystyanno-souza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  -->
-  <a href="mailto:erick.reis2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<!--  <a href="https://www.instagram.com//" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
+<!--   <a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  -->
+  <!-- <a href="mailto:erick.reis2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> -->
+
+ 💌 Entre em contato comigo:
+<a href='mailto:erick.reis2@gmail.com'>erick.reis2@gmail.com</a>
+  
 </div>
 
 <div align="center">
