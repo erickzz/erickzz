@@ -6,7 +6,7 @@
   </h1>
   
   <p>
-    Estudante de Desenvolvimento Front End e Back End. 
+    Estudante de Análise e Desenvolvimento de Sistemas. 
   
   <p>
     Amante de tecnologia e animado em codar
