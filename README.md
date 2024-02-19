@@ -5,23 +5,28 @@
 <!--     <a href="https://www.linkedin.com/in/crystyanno-souza/"> 😃️</a> -->
   </h1>
   
-  <p align="center">
+  <p>
     Estudante de Desenvolvimento Front End e Back End. 
   
-  <p align="center">
+  <p>
     Amante de tecnologia e animado em codar
     Apaixonado por tecnologia, jogos, programação e entretenimento. Em constante aprendizado e sempre buscando novos desafios, estou pronto para contribuir e crescer na comunidade de desenvolvimento. Vamos criar algo incrível juntos! 😉️
   </p>
    
 </div>
 
-<div align="center">
-  <a href="https://github.com/Crystyanno">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=erickzz&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickzz&theme=tokyonight&hide_border=false&&layout=compact"/>
-  </a>
-
+<div>
+  <a href="https://github.com/erickzz">
+    <img align="center" height="200em" src="https://github-readme-stats-mu-three-31.vercel.app/api?username=erickzz&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true&hide=contribs&card_width=620"/>
+  <img align="center" height="200em" src="https://github-readme-stats-mu-three-31.vercel.app/api/top-langs/?username=erickzz&border_radius=false&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true&hide=contribs"/>
 </div>
+
+<h2> Skills </h2>
+
+<div align="center">
+  React | Javascript |  Typescript | Html | CSS
+</div>
+
 
 <div align="center" valign="top"><br>
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
