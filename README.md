@@ -17,8 +17,8 @@
 
 <div>
   <a href="https://github.com/erickzz">
-    <img align="center" height="200em" src="https://github-readme-stats-mu-three-31.vercel.app/api?username=erickzz&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&hide=contribs"/>
-  <img align="center" height="200em" src="https://github-readme-stats-mu-three-31.vercel.app/api/top-langs/?username=erickzz&border_radius=false&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&hide=contribs"/>
+    <img align="center" height="200em" src="https://github-readme-stats-brown-eight-56.vercel.app/api?username=erickzz&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&hide=contribs"/>
+  <img align="center" height="200em" src="https://github-readme-stats-brown-eight-56.vercel.app/api/top-langs/?username=erickzz&border_radius=false&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&hide=contribs"/>
 </div>
 
  <h2> 🚀 Skills </h2>
