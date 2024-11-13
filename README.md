@@ -1,7 +1,7 @@
 <div>
   
   <h1 align="center">
-    Oi Tudo bem? Eu sou o Erick
+    Opa! Tudo bem? Prazer, sou o Erick
 <!--     <a href="https://www.linkedin.com/in/crystyanno-souza/"> 😃️</a> -->
   </h1>
   
